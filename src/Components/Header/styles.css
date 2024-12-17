@@ -1,0 +1,17 @@
+.svg-header{
+    margin-top: 1px;
+
+    margin-left: 15px;
+
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+
+.shopping{
+position: relative;
+bottom: 5px;
+left: -5;
+}
+
